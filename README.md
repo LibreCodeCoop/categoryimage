@@ -4,7 +4,7 @@ Category Image Moodle Plugin
 Features
 --------
 
-This blocl plugin display images of the categories
+This block plugin display images of the categories
 
 Installation / Configuration
 ----------------------------
