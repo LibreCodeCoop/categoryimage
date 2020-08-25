@@ -1,5 +1,3 @@
-# categoryimage
-
 Category Image Moodle Plugin
 ==============================
 
